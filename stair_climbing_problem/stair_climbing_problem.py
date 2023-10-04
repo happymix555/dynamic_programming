@@ -61,4 +61,4 @@ if __name__ == '__main__':
 	startTimestamp = time.time()
 	pprint(stairClimbing( totalStairStepsInt, [ 1, 2 ] ) )
 	print( f'Take a total of { time.time() - startTimestamp } to calculate all possible\
-	   combination of action to climb { totalStairStepsInt } steps stair' )
+		combination of action to climb { totalStairStepsInt } steps stair' )
